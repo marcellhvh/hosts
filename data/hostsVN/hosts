@@ -1,7 +1,7 @@
 # Title: hostsVN
-# Last modified: 18 Jan 2026 11:06 UTC+7
-# Version: 2601181106
-# Blocked: 1.733 domains
+# Last modified: 18 Aug 2026 13:56 UTC+7
+# Version: 2608181356
+# Blocked: 1.747 domains
 # Only include advertisers in Vietnam
 # Homepage: https://bigdargon.github.io/hostsVN/
 # GitHub: https://github.com/bigdargon/hostsVN
@@ -33,6 +33,7 @@
 0.0.0.0 cpm.j.eclick.vn
 0.0.0.0 d.eclick.vn
 0.0.0.0 dmp.eclick.vn
+0.0.0.0 ds.eclick.vn
 0.0.0.0 e.eclick.vn
 0.0.0.0 eclick.vn
 0.0.0.0 emarketing.eclick.vn
@@ -1109,6 +1110,7 @@
 0.0.0.0 piwik.rta.vn
 #[accesstrade.vn]
 0.0.0.0 ad.accesstrade.vn
+0.0.0.0 content.accesstrade.vn
 0.0.0.0 partner.accesstrade.vn
 0.0.0.0 service-api.accesstrade.vn
 0.0.0.0 static.accesstrade.vn
@@ -1434,6 +1436,21 @@
 0.0.0.0 api.moneyoyo.org
 0.0.0.0 feed.moneyoyo.org
 0.0.0.0 sdk.moneyoyo.com
+#[engagelab.cc]
+0.0.0.0 engagelab.cc
+0.0.0.0 global-sis.api.engagelab.cc
+0.0.0.0 global-websis.api.engagelab.cc
+0.0.0.0 pushstat.api.engagelab.cc
+0.0.0.0 webpushstat.api.engagelab.cc
+0.0.0.0 www.engagelab.cc
+#[engagelab.com]
+0.0.0.0 global-sis.engagelab.com
+0.0.0.0 webpushstat-sgp.engagelab.com
+#[smartads.tech]
+0.0.0.0 smartads.tech
+0.0.0.0 p.smartads.tech
+0.0.0.0 st.smartads.tech
+0.0.0.0 t.smartads.tech
 # --- Block adsVN ---
 0.0.0.0 12signup.com
 0.0.0.0 ad-admin.vnay.vn
@@ -1508,6 +1525,7 @@
 0.0.0.0 ads.thitruongtaichinhtiente.vn
 0.0.0.0 ads.thvli.vn
 0.0.0.0 ads.tiki.vn
+0.0.0.0 ads.tvpl.vn
 0.0.0.0 ads.vietbao.vn
 0.0.0.0 ads.vishare.vn
 0.0.0.0 ads.vlr.vn
@@ -1554,7 +1572,6 @@
 0.0.0.0 banner.thadaco.vn
 0.0.0.0 banner.trangvangvietnam.com
 0.0.0.0 cdn-ads.thesaigontimes.vn
-0.0.0.0 cdn.adxcontent.com
 0.0.0.0 cdn.qc24h.com
 0.0.0.0 cdn2.cache.vn
 0.0.0.0 click.vieon.vn
